@@ -1,2 +1,2 @@
 # toy-DNS
-A toy DNS resolver.
+A toy DNS resolver. Based on https://implement-dns.wizardzines.com/
